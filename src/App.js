@@ -34,6 +34,12 @@ const DUMMY_EXPENSES = [
     amount: 35.10,
     date: new Date(2021, 2, 23),
   },
+  {
+    id: 6,
+    title: "Music Rent",
+    amount: 135.10,
+    date: new Date(2021, 2, 23),
+  }
 ];
 
 function App() {
