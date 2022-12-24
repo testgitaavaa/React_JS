@@ -27,6 +27,12 @@ const DUMMY_EXPENSES = [
     amount: 50.0,
     date: new Date(2020, 2, 23),
   },
+  {
+    id: 5,
+    title: "The Batman",
+    amount: 35.10,
+    date: new Date(2021, 2, 23),
+  },
 ];
 
 function App() {
