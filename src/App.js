@@ -33,6 +33,12 @@ const DUMMY_EXPENSES = [
     amount: 35.10,
     date: new Date(2021, 2, 23),
   },
+  {
+    id: 6,
+    title: "Avatar : The way of water",
+    amount: 135.10,
+    date: new Date(2022, 12, 16),
+  },
 ];
 
 function App() {
